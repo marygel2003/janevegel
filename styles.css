@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+img { display: block;
+margin-left: auto;
+margin-right: auto;
+    text-align : center;
+}
+
+
+body{ 
+  background-image: url(' purple.jpg' ); 
+   background-repeat: no repeat;
+    background-attachment: fixed;
+  background-size: 100% 100%;
+}
+p {
+    color: black;
+    font-family: arial;
+    font-size: 40px;
+    text-align: center;
+}
+  
+h1 {
+  color: black;
+  font-family: cursive;
+  text-align:center;
+  font-size: 70px;
+}
+
+ul{
+  display:inline-block;
+  padding: 10px;
+  border: 10px solid tan;
+  font-size: 60px;
+  
+  
+
+  
+  
+   
+  
+  
+  }
+}
+
+
+
+
+</head>
+</html>
